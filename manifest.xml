@@ -12,13 +12,13 @@
   <DefaultLocale>es-ES</DefaultLocale>
   <DisplayName DefaultValue="SuperCopy Pro" />
   <Description DefaultValue="Exporta rangos de Excel con formato limpio para WhatsApp, Imagen y Correo." />
-  <IconUrl DefaultValue="https://https://jesus110374.github.io/excel-super-copy/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://https://jesus110374.github.io/excel-super-copy/assets/icon-80.png" />
-  <SupportUrl DefaultValue="https://https://jesus110374.github.io/excel-super-copy/" />
+  <IconUrl DefaultValue="https://jesus110374.github.io/excel-super-copy/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://jesus110374.github.io/excel-super-copy/assets/icon-80.png" />
+  <SupportUrl DefaultValue="https://jesus110374.github.io/excel-super-copy/" />
 
   <!-- Dominios autorizados -->
   <AppDomains>
-    <AppDomain>https://https://jesus110374.github.io/excel-super-copy/</AppDomain>
+    <AppDomain>https://jesus110374.github.io/excel-super-copy/</AppDomain>
   </AppDomains>
 
   <!-- Hosts donde funciona (Excel) -->
@@ -27,7 +27,7 @@
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://https://jesus110374.github.io/excel-super-copy/index.html" />
+    <SourceLocation DefaultValue="https://jesus110374.github.io/excel-super-copy/index.html" />
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
@@ -76,12 +76,12 @@
     <!-- Recursos de texto y URLs -->
     <Resources>
       <bt:Images>
-        <bt:Image id="icon16" DefaultValue="https://https://jesus110374.github.io/excel-super-copy/assets/icon-16.png" />
-        <bt:Image id="icon32" DefaultValue="https://https://jesus110374.github.io/excel-super-copy/assets/icon-32.png" />
-        <bt:Image id="icon80" DefaultValue="https://https://jesus110374.github.io/excel-super-copy/assets/icon-80.png" />
+        <bt:Image id="icon16" DefaultValue="https://jesus110374.github.io/excel-super-copy/assets/icon-16.png" />
+        <bt:Image id="icon32" DefaultValue="https://jesus110374.github.io/excel-super-copy/assets/icon-32.png" />
+        <bt:Image id="icon80" DefaultValue="https://jesus110374.github.io/excel-super-copy/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="taskpaneUrl" DefaultValue="https://https://jesus110374.github.io/excel-super-copy/index.html" />
+        <bt:Url id="taskpaneUrl" DefaultValue="https://jesus110374.github.io/excel-super-copy/index.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="Productividad" />

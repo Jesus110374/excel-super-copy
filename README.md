@@ -2,8 +2,8 @@
 Generado con ScriptLab to Add-in Studio (INTEF - Inteligencia Eficiente)
 
 🌐 **URL Pública configurada (GitHub Pages / Hosting):**
-- **Sitio Web del Complemento:** [https://https://jesus110374.github.io/excel-super-copy/](https://https://jesus110374.github.io/excel-super-copy/)
-- **Punto de Entrada (Taskpane):** [https://https://jesus110374.github.io/excel-super-copy/index.html](https://https://jesus110374.github.io/excel-super-copy/index.html)
+- **Sitio Web del Complemento:** [https://jesus110374.github.io/excel-super-copy/](https://jesus110374.github.io/excel-super-copy/)
+- **Punto de Entrada (Taskpane):** [https://jesus110374.github.io/excel-super-copy/index.html](https://jesus110374.github.io/excel-super-copy/index.html)
 
 ---
 
@@ -20,7 +20,7 @@ Generado con ScriptLab to Add-in Studio (INTEF - Inteligencia Eficiente)
 
 ### 1. Publicar los archivos web:
 Sube `index.html`, `style.css`, `app.js` y la carpeta `assets/` a la raíz de tu repositorio de GitHub Pages o hosting:
-- Enlace público: **https://https://jesus110374.github.io/excel-super-copy/**
+- Enlace público: **https://jesus110374.github.io/excel-super-copy/**
 - Verifica que abra correctamente en tu navegador con candado seguro HTTPS.
 
 ### 2. Cargar en Excel Desktop (Catálogo Compartido):
